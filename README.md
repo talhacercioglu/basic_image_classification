@@ -38,5 +38,6 @@ The training progress is visualized using Matplotlib subplots, showcasing the ev
 ## Notes
 
 - The script includes commented-out sections for potential enhancements, such as early stopping and adjusting batch size.
+- Most of these codes were taken from Kaggle and rearranged with my individual comments!
 
 Feel free to experiment with the code and parameters to further optimize the model's performance on the CIFAR-10 dataset.
